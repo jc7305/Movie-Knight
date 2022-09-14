@@ -1,0 +1,5 @@
+bot token:
+bot id:
+doc name:
+openai organization:
+openai api key:
